@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Ljupco Trajanovski/Desktop/py4efun3.db" foreign_keys="1"/><window><current_tab id="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1011"/><expanded_item id="0" parent="1"/><expanded_item id="0" parent="0"/><expanded_item id="1" parent="0"/><expanded_item id="2" parent="0"/><expanded_item id="3" parent="0"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="Track"/><default_encoding codec=""/><browsetable_info data="AAAABQAAAAoAVQBzAGUAcgBzAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////8AAAAA/////wAAAAoAVAByAGEAYwBrAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////8AAAAA/////wAAAAoARwBlAG4AcgBlAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////8AAAAA/////wAAAAwAQQByAHQAaQBzAHQAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////wAAAAD/////AAAACgBBAGwAYgB1AG0AAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////wAAAAD/////"/></tab_browse><tab_sql><sql name="SQL 1">INSERT INTO Track (title, rating, len, count, album_id, genre_id) 
+    VALUES ('Black Dog', 5, 297, 0, 2, 1) ;
+INSERT INTO Track (title, rating, len, count, album_id, genre_id) 
+    VALUES ('Stairway', 5, 482, 0, 2, 1) ;
+INSERT INTO Track (title, rating, len, count, album_id, genre_id) 
+    VALUES ('About to Rock', 5, 313, 0, 1, 2) ;
+INSERT INTO Track (title, rating, len, count, album_id, genre_id) 
+    VALUES ('Who Made Who', 5, 207, 0, 1, 2) ;</sql><current_tab id="0"/></tab_sql></sqlb_project>
